@@ -1,5 +1,7 @@
 # Grounding Descriptions in Images informs Zero-Shot Visual Recognition
 
+[Paper Link](https://shaunak27.github.io/data/GRAIN_full.pdf)
+
 This paper contains code for our paper <b>GRAIN: Grounding Descriptions in Images informs Zero-Shot Visual Recognition</b>. GRAIN is a new pretraining strategy for CLIP to learn fine-grained visual representations.
 
 <p align="center">
@@ -49,7 +51,7 @@ torchrun --nnodes=<n_nodes> --nproc_per_node=<n_gpus_per_node> \
 evaluate.py --device_ids 0 1 2 3 4 5 6 7 --backbone CLIP_VITB16 --use_desc_train --batch_size 128 --lr 1e-3 --wd 0.1 --epochs 35 \
 --warmup-epochs 1 --num_queries 5 --is_gala --resume <path_to_checkpoint> \
 ```
-
+Experiments reported in the paper were conducted on 2*8 H100 GPUs with 80GB memory each.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
