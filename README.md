@@ -57,4 +57,4 @@ Experiments reported in the paper were conducted on 2*8 H100 GPUs with 80GB memo
 This project is licensed under the [MIT License](LICENSE).
 
 ## Citing GRAIN
-If you use GRAIN in your research, please cite [this paper](https://shaunak27.github.io/data/GRAIN_full.pdf).
+If you use GRAIN in your research, please cite [our paper](https://shaunak27.github.io/data/GRAIN_full.pdf).
