@@ -55,3 +55,6 @@ Experiments reported in the paper were conducted on 2*8 H100 GPUs with 80GB memo
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Citing GRAIN
+If you use HePCo in your research, please cite [the following paper](https://shaunak27.github.io/data/GRAIN_full.pdf):
