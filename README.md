@@ -33,6 +33,7 @@ Significant improvements achieved by our model on other downstream tasks such as
     ```
 2. Download the Conceptual Captions dataset from [here](https://ai.google.com/research/ConceptualCaptions/download).
 
+Our paper contains experiments for both CC3M and CC12M.
 ## Usage
 
 To train the model, run the following command:
