@@ -56,7 +56,7 @@ Experiments reported in the paper were conducted on 2*8 H100 GPUs with 80GB memo
 
 ## Annotations
 
-We will make the synthetic annotations used in our paper available soon.
+We will make the synthetic annotations for CC3M and CC12M used in our paper available soon.
 
 ## License
 
