@@ -2,7 +2,7 @@
 
 [Paper Link](https://shaunak27.github.io/data/GRAIN_full.pdf)
 
-This paper contains code for our paper <b>GRAIN: Grounding Descriptions in Images informs Zero-Shot Visual Recognition</b>. GRAIN is a new pretraining strategy for CLIP to learn fine-grained visual representations.
+This repository contains code for our paper <b>GRAIN: Grounding Descriptions in Images informs Zero-Shot Visual Recognition</b>. GRAIN is a new pretraining strategy for CLIP to learn fine-grained visual representations.
 
 <p align="center">
     <img src="assets/method.png" width="100%" class="center"/>
