@@ -1,4 +1,4 @@
-# Grounding Descriptions in Images informs Zero-Shot Visual Recognition
+# Grounding Descriptions in Images informs Zero-Shot Visual Recognition (2024)
 
 [Paper Link](https://shaunak27.github.io/data/GRAIN_full.pdf)
 
