@@ -52,6 +52,11 @@ evaluate.py --device_ids 0 1 2 3 4 5 6 7 --backbone CLIP_VITB16 --use_desc_train
 --warmup-epochs 1 --num_queries 5 --is_gala --resume <path_to_checkpoint> \
 ```
 Experiments reported in the paper were conducted on 2*8 H100 GPUs with 80GB memory each.
+
+## Annotations
+
+We will make the synthetic annotations used in our paper available soon.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
